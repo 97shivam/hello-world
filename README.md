@@ -2,7 +2,9 @@
 who i am?
 
 Shivam Tripathi
+
 Computer Science & Engineering
+
 SRM University
 
 Graduation                 SRM University
@@ -27,15 +29,21 @@ Android app Development
 
 Computer Languages
 c/c++,python,java,PHP,SQL,Python pandas,R
+
 Application Development
 HTML5/CSS/XML,javaScript,Python-Djanjo,AJAX,Jquery,Hadoop
+
 Tools
 Octave(Like matlab),Jupyter,Android-Studio
 
 # Interest Field
 Big-Data(Hadoop,Hive,Pig)
+
 Dala visulation and analytic
+
 Machine Learning
+
 Cloud Computing(Data Processing)
+
 Algorithm and Data Structure
 
