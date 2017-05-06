@@ -7,11 +7,11 @@ Computer Science & Engineering
 
 SRM University
 
-Graduation                 SRM University
+Graduation :                  SRM University
 
-Intermediate/+2            Sardar Patel HS School Amarpatan
+Intermediate/+2 :            Sardar Patel HS School Amarpatan
 
-Matriculation              Saraswati Higher Secondry School
+Matriculation :               Saraswati Higher Secondry School
 
 Email: stripathi3397@gmail.com
 
